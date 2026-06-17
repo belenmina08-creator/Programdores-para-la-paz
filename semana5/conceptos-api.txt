@@ -1,0 +1,5 @@
+La ruta POST /reporte recibe información en formato JSON.
+
+Sirve para enviar mensajes o reportes desde el usuario al servidor.
+
+Podría usarse en comunidades para reportar problemas o emergencias.

@@ -1,0 +1,8 @@
+Ruta /:
+Muestra: Servidor activo
+
+Ruta /saludo:
+Muestra: Hola comunidad
+
+Ruta /mensaje/juan:
+Muestra: Hola juan

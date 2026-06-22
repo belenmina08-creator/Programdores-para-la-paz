@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor muestra todos los reportes registrados en memoria. Al principio la lista está vacía, pero después de enviar reportes mediante la ruta POST, estos se almacenan en el arreglo reportes y se muestran en formato JSON cuando se realiza la consulta.

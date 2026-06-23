@@ -1,0 +1,20 @@
+La prueba de la API se realizó enviando una petición POST a la ruta:
+
+http://localhost:3000/registro
+
+Se enviaron los siguientes datos en formato JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió la información usando req.body y respondió:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el servidor puede recibir y procesar información enviada por un usuario.
